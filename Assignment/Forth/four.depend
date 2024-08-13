@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723572619 source:c:\users\ams12\desktop\assignment\forth\four\main.c
+	<stdio.h>
+	<stdlib.h>
+
